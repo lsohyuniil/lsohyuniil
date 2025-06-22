@@ -4,7 +4,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div align= "center">
-         <a href=mailto:lim0710so@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"></a>
+         <a href=mailto:lim0710so@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lim0710so@gmail.com"></a>
           </div><br>
     
 <h2 align="center"> ✨ Tech Stack </h2>
